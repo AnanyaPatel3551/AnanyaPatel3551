@@ -1,4 +1,4 @@
-# 🦸‍♀️ Ananya Patel 
+#  Ananya Patel 
 -------------------------------------------------------------------------------------------------------------------------------------------
 
 ### I’m Ananya, a 2nd-year Computer Science student at Scaler School of Technology, passionate about building thoughtful, user-friendly digital experiences. I enjoy exploring full-stack development, improving my problem-solving skills, and learning new technologies that help bring creative ideas to life.
