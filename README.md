@@ -20,29 +20,28 @@
 
 ### 🛠️ Languages & Tools  
 <p align="left">
-   <!-- HTML -->
-  <img src="https://cdn.jsdelivr.net/gh/AnanyaAssets/3d-icons/html-3d.png" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="48"/>
 
   <!-- CSS -->
-  <img src="https://cdn.jsdelivr.net/gh/AnanyaAssets/3d-icons/css-3d.png" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="48"/>
 
   <!-- JavaScript -->
-  <img src="https://cdn.jsdelivr.net/gh/AnanyaAssets/3d-icons/js-3d.png" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="48"/>
 
   <!-- React -->
-  <img src="https://cdn.jsdelivr.net/gh/AnanyaAssets/3d-icons/react-3d.png" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="48"/>
 
   <!-- Node.js -->
-  <img src="https://cdn.jsdelivr.net/gh/AnanyaAssets/3d-icons/node-3d.png" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="48"/>
 
   <!-- Python -->
-  <img src="https://cdn.jsdelivr.net/gh/AnanyaAssets/3d-icons/python-3d.png" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48"/>
 
   <!-- Java -->
-  <img src="https://cdn.jsdelivr.net/gh/AnanyaAssets/3d-icons/java-3d.png" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="48"/>
 
   <!-- GitHub -->
-  <img src="https://cdn.jsdelivr.net/gh/AnanyaAssets/3d-icons/github-3d.png" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="48"/>
 </p>
 
 ---
