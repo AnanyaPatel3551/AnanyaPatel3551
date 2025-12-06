@@ -20,14 +20,29 @@
 
 ### 🛠️ Languages & Tools  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html" width="45" />
-  <img src="https://skillicons.dev/icons?i=css" width="45" />
-  <img src="https://skillicons.dev/icons?i=js" width="45" />
-  <img src="https://skillicons.dev/icons?i=react" width="45" />
-  <img src="https://skillicons.dev/icons?i=nodejs" width="45" />
-  <img src="https://skillicons.dev/icons?i=java" width="45" />
-  <img src="https://skillicons.dev/icons?i=python" width="45" />
-  <img src="https://skillicons.dev/icons?i=github" width="45" />
+   <!-- HTML -->
+  <img src="https://cdn.jsdelivr.net/gh/AnanyaAssets/3d-icons/html-3d.png" height="48" />
+
+  <!-- CSS -->
+  <img src="https://cdn.jsdelivr.net/gh/AnanyaAssets/3d-icons/css-3d.png" height="48" />
+
+  <!-- JavaScript -->
+  <img src="https://cdn.jsdelivr.net/gh/AnanyaAssets/3d-icons/js-3d.png" height="48" />
+
+  <!-- React -->
+  <img src="https://cdn.jsdelivr.net/gh/AnanyaAssets/3d-icons/react-3d.png" height="48" />
+
+  <!-- Node.js -->
+  <img src="https://cdn.jsdelivr.net/gh/AnanyaAssets/3d-icons/node-3d.png" height="48" />
+
+  <!-- Python -->
+  <img src="https://cdn.jsdelivr.net/gh/AnanyaAssets/3d-icons/python-3d.png" height="48" />
+
+  <!-- Java -->
+  <img src="https://cdn.jsdelivr.net/gh/AnanyaAssets/3d-icons/java-3d.png" height="48" />
+
+  <!-- GitHub -->
+  <img src="https://cdn.jsdelivr.net/gh/AnanyaAssets/3d-icons/github-3d.png" height="48" />
 </p>
 
 ---
